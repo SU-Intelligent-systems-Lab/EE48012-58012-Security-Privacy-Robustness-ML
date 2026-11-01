@@ -1,0 +1,7 @@
+data
+results/*
+!results/.gitkeep
+checkpoints/*
+!checkpoints/.gitkeep
+__pycache__/
+.venv/
